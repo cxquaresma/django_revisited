@@ -1,2 +1,4 @@
 pick up at start of Django Admin section:
 https://tutorial.djangogirls.org/en/django_admin/
+
+- Website admin info in g drive website admin doc
